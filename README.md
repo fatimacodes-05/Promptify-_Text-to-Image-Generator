@@ -59,3 +59,5 @@ Lower scores indicate higher image quality and better alignment with textual inp
 - Attention GAN excelled among GAN models due to better text-image alignment  
 - Stable Diffusion produced the most realistic and semantically accurate images  
 - GAN-based models struggled with resolution and complexity despite architectural tuning
+
+  ## Asma
