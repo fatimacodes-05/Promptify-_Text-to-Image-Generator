@@ -60,4 +60,4 @@ Lower scores indicate higher image quality and better alignment with textual inp
 - Stable Diffusion produced the most realistic and semantically accurate images  
 - GAN-based models struggled with resolution and complexity despite architectural tuning
 
-  ## Asma
+**Asma Fatima** 
